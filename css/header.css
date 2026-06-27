@@ -12,22 +12,26 @@
 .logo .logo-span{
     color:#4D5AE5;
 }
-.nav-list{
-    list-style: none;
-    }
+
 
 .nav-list .nav-link{
     text-decoration: none;
     font-weight: 500;
-    color: inherit
+    color: #2e2f42;
 }
 
-.contacts-list{
-    list-style: none;
-    }
+.nav-list .nav-link:hover,
+.nav-list .nav-link:focus{
+    color: #404bbf;
+}
+
 
 .contacts-list .contacts-link{
     text-decoration: none;
-    color: inherit;
+    color: #2e2f42;
     font-style: normal;
+}
+.contacts-list .contacts-link:hover,
+.contacts-list .contacts-link:focus {
+    color: #404bbf;
 }

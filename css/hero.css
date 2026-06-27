@@ -1,6 +1,6 @@
-#hero {
+.hero-section {
     color: #ffffff;
-    background-color: #434455;
+    background-color: #2e2f42;
     }
     .hero-title {
         font-size: 56px;
@@ -12,5 +12,11 @@
         color: inherit;
         background-color: #4D5AE5;
         cursor: pointer;
-        
+        font-weight: 500;
+        letter-spacing: 0.04em;
     }
+
+        .hero-button:hover,
+        .hero-button:focus {
+         color:#404bbf;
+        }

@@ -1,4 +1,4 @@
-#team {
+.team-section {
     background-color: #F4F4FD;
 }
 .team-title {
@@ -7,9 +7,8 @@
     text-align: center;
     color: #2E2F42;
 }
-.team-list {
-    list-style: none;
-}
+
+
 .team-item{
     background-color: #FFFFFF;
 }
@@ -18,6 +17,7 @@
         font-size: 20px;
         color: #2E2F42;
         text-align: center;
+        line-height: 1.2
 }
 .team-text{
         text-align: center;
