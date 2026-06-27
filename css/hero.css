@@ -1,0 +1,16 @@
+#hero {
+    color: #ffffff;
+    background-color: #434455;
+    }
+    .hero-title {
+        font-size: 56px;
+        line-height: 1.07143;
+        text-align: center;
+    }
+
+    .hero-button {
+        color: inherit;
+        background-color: #4D5AE5;
+        cursor: pointer;
+        
+    }
